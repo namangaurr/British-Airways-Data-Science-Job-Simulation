@@ -5,3 +5,5 @@
 • Scraped and analysed customer review data to uncover findings
 
 • Built a predictive model to understand factors that influence buying behaviour
+
+[British Airways Certificate.pdf](https://github.com/namangaurr/British-Airways-Data-Science-Job-Simulation/files/13765066/British.Airways.Certificate.pdf)
